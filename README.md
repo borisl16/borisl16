@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
  
 
-## Hi there 👋, I'm Boris Lazarov
+## Hi there 👋 I'm Boris Lazarov
 ### Graduate Full Stack Developer | Makers Academy
 
 I am an entry-level full stack developer and <a href="https://www.makers.tech">Makers Academy</a> graduate, open to all opportunities to contribute to professional engineering teams.
