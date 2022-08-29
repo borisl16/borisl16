@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ## Hi there 👋, I'm Borislav Lazarov
 ### Full Stack Developer | Makers Academy Graduate
 
-I am an entry-level full stack developer and <a href="https://www.makers.tech">Makers Academy</a> graduate, open to all opportunities to contribute to professional engineering teams.
+I am a full stack developer and <a href="https://www.makers.tech">Makers Academy</a> graduate, open to all opportunities to contribute to professional engineering teams.
 
 - 🔭 I’m currently working on <a href="https://github.com/borisl16/weather-app">React Weather App</a> & <a href="https://github.com/borisl16/c--rock-paper-scissors">Rock-Paper-Scissors Game</a>
 - 💬 Ask me about <a href="https://www.youtube.com/watch?v=ufyZ-sZSz4c">Cuban salsa</a> 
