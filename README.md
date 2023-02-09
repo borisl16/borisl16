@@ -2,6 +2,7 @@
 <!---
 borisl16/borisl16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" alt="c#" width="20" height="20"/>&nbsp;
 --->
  
 
@@ -11,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 I am a full stack developer and <a href="https://www.makers.tech">Makers Academy</a> graduate, open to all opportunities to contribute to professional engineering teams.
 
 - 🔭 I’m currently working on <a href="https://github.com/borisl16/weather-app">React Weather App</a> & <a href="https://github.com/borisl16/c--rock-paper-scissors">Rock-Paper-Scissors Game</a>
-- 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" alt="c#" width="20" height="20"/>&nbsp;
 - 💬 Ask me about <a href="https://www.youtube.com/watch?v=ufyZ-sZSz4c">Cuban salsa</a> 
 - 📫 How to reach me:<a href="mailto:lazarov_borislav@yahoo.com"> here you go</a> or just check <a href="https://borisl16.github.io">My Portfolio</a><br> 
 
